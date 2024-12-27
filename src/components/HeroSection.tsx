@@ -17,21 +17,24 @@ function HeroSection() {
         <p className="text-xl text-gray-600 dark:text-gray-300 mb-8">Software Developer</p>
         <div className="flex justify-center gap-6 mb-8">
           <a 
-            href="#" 
+            href="https://github.com/Serhatb0" 
+            target="_blank"
             className="text-gray-600 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-400 transform hover:scale-110 transition-all duration-300"
             aria-label="Github"
           >
             <Github size={24} />
           </a>
           <a 
-            href="#" 
+            href="https://www.linkedin.com/feed/" 
+            target="_blank"
             className="text-gray-600 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-400 transform hover:scale-110 transition-all duration-300"
             aria-label="LinkedIn"
           >
             <Linkedin size={24} />
           </a>
           <a 
-            href="mailto:email@example.com" 
+            target="_blank"
+            href="mailto:biricikserhat@icloud.com" 
             className="text-gray-600 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-400 transform hover:scale-110 transition-all duration-300"
             aria-label="Email"
           >

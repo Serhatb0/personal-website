@@ -9,7 +9,11 @@ function SkillsSection() {
     'Git',
     'Java',
     'Spring Boot',
-    'Docker'
+    'Docker',
+    'PostgreSQL',
+    'MySQL',
+    'Redis',
+    'JSP'
   ];
 
   return (

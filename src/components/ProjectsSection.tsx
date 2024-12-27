@@ -6,24 +6,43 @@ const projects = [
     title: 'E-Commerce Platform',
     description: 'Modern e-commerce platform with product management, cart operations and payment integration.',
     image: 'https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&w=800&h=400',
-    technologies: ['React', 'Node.js', 'MongoDB', 'Stripe'],
-    githubUrl: '#',
+    technologies: [
+      'Spring Boot',
+      'nextjs',
+      'PostgreSQL',
+      'Docker',
+      'JWT',
+      'Stripe'
+    ],
+    githubUrl: 'https://github.com/Serhatb0/biricik-e-commerce',
     liveUrl: '#'
   },
   {
-    title: 'Task Management App',
-    description: 'Real-time task management and work tracking system developed for teams.',
-    image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800&h=400',
-    technologies: ['Next.js', 'TypeScript', 'Prisma', 'PostgreSQL'],
-    githubUrl: '#',
+    title: 'Car Rental Platform',
+    description: 'Full-stack car rental platform with booking system, real-time availability tracking, and secure payment integration.',
+    image: 'https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=800&h=400',
+    technologies: [
+      'Spring Boot',
+      'React.js',
+      'PostgreSQL',
+      'Docker',
+      'JWT',
+    ],
+    githubUrl: 'https://github.com/Serhatb0/kodlamaio-rent-a-car',
     liveUrl: '#'
   },
   {
-    title: 'Social Media Dashboard',
-    description: 'Dashboard offering the ability to manage multiple social media accounts from a single panel.',
-    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&h=400',
-    technologies: ['Vue.js', 'Firebase', 'TailwindCSS'],
-    githubUrl: '#',
+    title: 'OAuth2 Social Login System',
+    description: 'Secure authentication system with Google OAuth2 integration, JWT token management, and role-based access control.',
+    image: 'https://images.unsplash.com/photo-1614064641938-3bbee52942c7?auto=format&fit=crop&w=800&h=400',
+    technologies: [
+      'Spring Boot',
+      'Spring Security',
+      'OAuth2',
+      'JWT',
+      'PostgreSQL'
+    ],
+    githubUrl: 'https://github.com/Serhatb0/Spring-Boot-OAuth2-Social-Login-with-Google',
     liveUrl: '#'
   }
 ];
