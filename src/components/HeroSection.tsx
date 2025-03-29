@@ -6,7 +6,7 @@ function HeroSection() {
       <div className="max-w-4xl mx-auto text-center">
         <div className="mb-8">
           <img
-            src="https://media.licdn.com/dms/image/v2/D4D03AQHhseZi4mu4Ug/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1722957713726?e=1740614400&v=beta&t=bYxRlL6Sf2GjV0_rm_uC1ccS9uVM-yeNpNja5uMLi5Q"
+            src="https://media.licdn.com/dms/image/v2/D4D03AQHhseZi4mu4Ug/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1722957713726?e=1748476800&v=beta&t=vkdkTUlZlq3RzD-XpZPOam_D8NJqP0kxvd3sTSISMus"
             alt="Profile"
             className="w-32 h-32 rounded-full mx-auto mb-4 border-4 border-blue-500 shadow-lg"
           />
